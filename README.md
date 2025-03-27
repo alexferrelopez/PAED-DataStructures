@@ -7,6 +7,13 @@ This project focuses on the implementation and analysis of several advanced data
 - **Trees**: AVL Trees, Binary Trees, R-Trees
 - **Maps (Hash Tables)**: Open Addressing with Quadratic Probing
 
+The development of the project was carried out by the following contributors:
+
+### Contributors:
+- **Tomas Uzcudun** - tomas.uzcudun
+- **Mohammed Sami Amin** - mohammedamin.sami
+- **Àlex Ferré** - alex.fl
+
 ## Table of Contents
 1. [Language Choice](#1-language-choice)
 2. [Data Structure Costs](#2-data-structure-costs)
